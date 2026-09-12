@@ -1,8 +1,8 @@
+# Avances del prototipo
+
 ## Demostración de uso
 
-El video presenta el flujo general de medición, la visualización del resultado
-y el registro de la información en la aplicación móvil.
+El siguiente video muestra el funcionamiento general del prototipo HemoKit
+y su interacción con la aplicación móvil.
 
-[![Ver demostración de HemoKit](../Fotos/portada-video.png)](../Fotos/App%20y%20Funcionamiento.mp4)
-
-▶️ [Reproducir video completo](../Fotos/App%20y%20Funcionamiento.mp4)
+▶️ [Ver video de la aplicación y funcionamiento](../Fotos/App%20y%20Funcionamiento.mp4)
