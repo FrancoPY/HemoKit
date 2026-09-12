@@ -12,7 +12,7 @@ El sistema utiliza medición óptica para obtener información relacionada con l
 <p align="center">
   <img src="Fotos/hemokit.png"
        alt="Prototipo de HemoKit"
-       width="500">
+       width="800">
 </p>
 
 ## Características principales
