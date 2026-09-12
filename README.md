@@ -22,6 +22,12 @@ El sistema utiliza medición óptica para obtener información relacionada con l
 - Funcionamiento sin consumibles por cada medición.
 - Registro digital para el seguimiento de resultados.
 
+<p align="center">
+  <img src="Fotos/Captura%20de%20pantalla%202026-09-12%20145321.png"
+       alt="Prototipo de HemoKit"
+       width="500">
+</p>
+
 ## Documentación
 
 - [Problema y necesidad](01_Problema/)
