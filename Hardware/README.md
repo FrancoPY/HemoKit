@@ -49,6 +49,4 @@ Las pruebas permitieron comprobar el funcionamiento general del sistema antes de
   <img src="fotos/hw-prototipo-iluminado.png" alt="Prototipo de HemoKit durante una prueba de funcionamiento" width="380">
 </p>
 
-## Confidencialidad
 
-Los esquemáticos, el diseño completo de la PCB, las conexiones, los parámetros electrónicos y los archivos de fabricación se mantienen en la documentación privada del proyecto.
