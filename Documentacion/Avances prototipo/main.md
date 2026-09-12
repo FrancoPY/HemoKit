@@ -1,8 +1,17 @@
 # Avances del prototipo
 
-## Demostración de uso
+## Video de uso
 
-El siguiente video muestra el funcionamiento general del prototipo HemoKit
-y su interacción con la aplicación móvil.
+En el siguiente video se presenta el funcionamiento general de HemoKit,
+desde la interacción con el prototipo hasta la visualización de los
+resultados en la aplicación móvil.
 
-▶️ [Ver video de la aplicación y funcionamiento](../Fotos/App%20y%20Funcionamiento.mp4)
+https://github.com/FrancoPY/HemoKit/blob/main/Fotos/Funcionamiento.mp4
+https://github.com/FrancoPY/HemoKit/blob/main/Fotos/App.mp4
+
+## Avances alcanzados
+
+- Integración del prototipo.
+- Comunicación con la aplicación móvil.
+- Visualización de los resultados.
+- Registro de las mediciones.
