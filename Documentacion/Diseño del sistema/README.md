@@ -64,4 +64,4 @@ La propuesta evolucionó hacia un personaje de apariencia amigable, incorporando
 
 ## Estado del diseño
 
-Las imágenes corresponden a diferentes etapas del desarrollo y no representan necesariamente la versión definitiva. Los archivos CAD, STL, dimensiones exactas y parámetros de fabricación se mantienen privados.
+Las imágenes corresponden a diferentes etapas del desarrollo
