@@ -2,23 +2,18 @@
 
 ## Funcionamiento del dispositivo
 
-El siguiente video muestra el funcionamiento general del prototipo HemoKit.
-
 <p align="center">
-  <video width="600" controls>
-    <source src="../../Fotos/Funcionamiento.mp4" type="video/mp4">
-  </video>
+  <img src="../../Fotos/Funcionamiento.gif"
+       alt="Funcionamiento del prototipo HemoKit"
+       width="320">
 </p>
 
 ## Funcionamiento de la aplicación
 
-El siguiente video muestra la visualización y el registro de resultados
-en la aplicación móvil.
-
 <p align="center">
-  <video width="600" controls>
-    <source src="../../Fotos/App.mp4" type="video/mp4">
-  </video>
+  <img src="../../Fotos/App.gif"
+       alt="Funcionamiento de la aplicación HemoKit"
+       width="360">
 </p>
 
 
