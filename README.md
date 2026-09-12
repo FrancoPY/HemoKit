@@ -9,15 +9,39 @@ El sistema utiliza medición óptica para obtener información relacionada con l
 > una prueba clínica ni constituye actualmente un dispositivo
 > médico certificado.
 
-## Integrantes
-| Foto | Código | Nombre Completo | Correo Institucional |
-| :---: | :---: | :--- | :--- |
-| ![User](https://img.icons8.com/clouds/100/000000/user.png) | 20202508 | VILCHEZ COTRINA, PAMELA NICOLE | a20202508@pucp.edu.pe |
-| ![User](https://img.icons8.com/clouds/100/000000/user.png) | 20212981 | MAMANI RIMACHI, ELENA CAROLINA | a20212981@pucp.edu.pe |
-| ![User](https://img.icons8.com/clouds/100/000000/user.png) | 20223041 | MERINO CONTRERAS, ANDREE PASCALE | a20223041@pucp.edu.pe |
-| ![User](https://img.icons8.com/clouds/100/000000/user.png) | 20220212 | PALMA ARAUJO, GLORIA CECILIA | gloria.palma@ucph.pe |
-| ![User](https://img.icons8.com/clouds/100/000000/user.png) | 20220392 | PERALTA YAUYO, FRANCO PEDRO SEBASTIAN | franco.peralta@pucp.edu.pe |" > README.md
+<p align="center">
+  <img src="Fotos/hemokit.png"
+       alt="Prototipo de HemoKit"
+       width="500">
+</p>
 
-## Estado del Proyecto
-* En desarrollo - Ciclo 2026-1" > README.md
+## Características principales
+
+- Medición no invasiva.
+- Diseño portátil y adaptado para niños.
+- Funcionamiento sin consumibles por cada medición.
+- Registro digital para el seguimiento de resultados.
+
+## Documentación
+
+- [Problema y necesidad](01_Problema/)
+- [Diseño del sistema](02_Diseno/)
+- [Hardware](03_Hardware/)
+- [Software](04_Software/)
+- [Validación](05_Validacion/)
+- [Avances del prototipo](06_Avances/)
+
+## Integrantes
+
+| Integrante | Correo institucional |
+|---|---|
+| Pamela Vilchez | pamela.vilchez@pucp.edu.pe |
+| Elena Mamani | elena.mamani@pucp.edu.pe |
+| Pascale Merino | Pascale.merino@pucp.edu.pe |
+| Gloria Palma | gloria.palma@pucp.edu.pe |
+| Franco Peralta | franco.peralta@pucp.edu.pe |
+
+## Estado del proyecto
+
+**En desarrollo y validación — 2026**
 
