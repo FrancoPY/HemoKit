@@ -4,14 +4,23 @@
 
 El siguiente video muestra el funcionamiento general del prototipo HemoKit.
 
-https://github.com/user-attachments/assets/https://github.com/FrancoPY/HemoKit/blob/main/Fotos/Funcionamiento.mp4
+<p align="center">
+  <video width="600" controls>
+    <source src="../../Fotos/Funcionamiento.mp4" type="video/mp4">
+  </video>
+</p>
 
 ## Funcionamiento de la aplicación
 
 El siguiente video muestra la visualización y el registro de resultados
 en la aplicación móvil.
 
-https://github.com/user-attachments/assets/https://github.com/FrancoPY/HemoKit/blob/main/Fotos/App.mp4
+<p align="center">
+  <video width="600" controls>
+    <source src="../../Fotos/App.mp4" type="video/mp4">
+  </video>
+</p>
+
 
 ## Avances alcanzados
 
