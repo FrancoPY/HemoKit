@@ -1,4 +1,4 @@
-﻿# HemoKid
+﻿# HemoKit
 
 ## Descripción
 HemoKit es un dispositivo portátil en desarrollo para apoyar el tamizaje no invasivo de anemia en niños de 2 a 5 años.
