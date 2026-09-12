@@ -30,12 +30,12 @@ El sistema utiliza medición óptica para obtener información relacionada con l
 
 ## Documentación
 
-- [Problema y necesidad](01_Problema/)
-- [Diseño del sistema](02_Diseno/)
-- [Hardware](03_Hardware/)
-- [Software](04_Software/)
-- [Validación](05_Validacion/)
-- [Avances del prototipo](06_Avances/)
+- [Problema y necesidad](Problema%20y%20necesidad/)
+- [Diseño del sistema](Dise%C3%B1o%20del%20sistema/)
+- [Hardware](Hardware/)
+- [Software](Software/)
+- [Validación](Validaci%C3%B3n/)
+- [Avances del prototipo](Avances%20del%20prototipo/)
 
 ## Integrantes
 
