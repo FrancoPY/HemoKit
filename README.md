@@ -32,13 +32,23 @@ El sistema utiliza medición óptica para obtener información relacionada con l
 
 | Integrante | Correo institucional |
 |---|---|
-| Pamela Vilchez | pamela.vilchez@pucp.edu.pe |
 | Elena Mamani | elena.mamani@pucp.edu.pe |
-| Pascale Merino | Pascale.merino@pucp.edu.pe |
-| Gloria Palma | gloria.palma@pucp.edu.pe |
 | Franco Peralta | franco.peralta@pucp.edu.pe |
+| Gloria Palma | gloria.palma@pucp.edu.pe |
+| Pamela Vilchez | pamela.vilchez@pucp.edu.pe |
+| Pascale Merino | Pascale.merino@pucp.edu.pe |
+
+
+
+## Funcionamiento del dispositivo
+
+<p align="center">
+  <img src="../../Fotos/Funcionamiento.gif"
+       alt="Funcionamiento del prototipo HemoKit"
+       width="320">
+</p>
 
 ## Estado del proyecto
 
-**En desarrollo y validación — 2026**
+**En desarrollo - 2026**
 
