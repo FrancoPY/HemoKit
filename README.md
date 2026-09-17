@@ -36,7 +36,7 @@ El sistema utiliza medición óptica para obtener información relacionada con l
 | Franco Peralta | franco.peralta@pucp.edu.pe |
 | Gloria Palma | gloria.palma@pucp.edu.pe |
 | Pamela Vilchez | pamela.vilchez@pucp.edu.pe |
-| Pascale Merino | Pascale.merino@pucp.edu.pe |
+| Pascale Merino | pascale.merino@pucp.edu.pe |
 
 
 
